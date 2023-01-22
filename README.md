@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BaranKalkan
+- 👋 Hi, I’m Baran Kalkan
 - 📫 How to reach me -> barankalkan@protonmail.com
 
 <!---
